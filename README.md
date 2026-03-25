@@ -1,7 +1,7 @@
 # Telecom Customer Churn Prediction
 
 ## 📌 Project Overview
-This project focuses on predicting customer churn in a telecom company using Machine Learning techniques. The goal is to identify customers likely to leave and provide actionable business insights.
+This project focuses on predicting customer churn in a telecom company using Machine Learning techniques. The goal is to identify customers likely to leave and provide actionable business insights. 
 
 ## 🎯 Objectives
 - Predict customer churn
